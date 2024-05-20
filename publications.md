@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-
+<!-- 
 > Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
 ## Conference Paper
@@ -43,4 +43,4 @@ title: Publications
 
 - An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
 
-  <br>
+  <br> -->
