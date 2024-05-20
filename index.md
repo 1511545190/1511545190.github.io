@@ -2,16 +2,10 @@
 layout: page
 ---
 
-# About Me
 Hello , I'm Liu Riliang .🤗
 
-## Academic Background
+Student from GuangDong Polytechnic Normal University.
 
+Major in Computer Science & Technology .
 
-
-## Research Interests
-
-
-
-## News and Updates
-
+![image-20240520144132912](index.assets/image-20240520144132912.png)
