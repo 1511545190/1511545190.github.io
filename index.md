@@ -8,6 +8,12 @@ Student from GuangDong Polytechnic Normal University.
 
 Major in Computer Science & Technology .
 
-![image-20240520144132912](index.assets/image-20240520144132912.png)
+大家好，我是lrl🤗
+
+广东技术师范大学学生。
+
+计算机科学与技术（师范）专业。
+
+
 
 
