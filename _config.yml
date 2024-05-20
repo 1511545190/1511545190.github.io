@@ -39,10 +39,8 @@ owner:
 links:
   - title: About Me
     url: /
-  # - title: Teams
-  #   url: /teams/
-  - title: Publications
-    url: /publications/
+
+
   - title: Awards
     url: /awards/
   - title: Hobbies
@@ -51,6 +49,10 @@ links:
     url: /blogs/
   - title: Teach
     url: /teach/
+  # - title: Teams
+  #   url: /teams/
+  # - title: Publications
+  #   url: /publications/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
