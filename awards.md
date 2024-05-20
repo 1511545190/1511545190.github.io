@@ -1,12 +1,12 @@
----
+<!-- ---
 layout: page
 permalink: /awards/index.html
 title: Awards
----
+--- -->
 
 <!-- > Lastest Update: 8th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://1511545190/file/awards-zh/) -->
 
-## Scholarships
+<!-- ## Scholarships -->
 <!-- 
 - Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 12 undergraduates are selected around the world
 - Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU
