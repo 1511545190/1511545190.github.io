@@ -1,7 +1,7 @@
 ---
-# layout: page
-# permalink: /teams/index.html
-# title: Teams
+layout: page
+permalink: /teams/index.html  # 要加这个才能被nevigator访问到
+title: Teams
 ---
 
 <!-- ## Motivation -->
